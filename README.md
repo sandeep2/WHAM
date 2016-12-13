@@ -1,15 +1,6 @@
 # Whats Happening Around Me!! (WHAM)
 MSD Project (CS 5500) : Fall 2015
 
-Team Details:
-# Team Name: Tech Patriots<br/>
-
-# Team Members:
-1) Lakshit Gaur<br/>
-2) Nitin Shetty<br/>
-3) Sandeep Lagisetty<br/>
-4) Sanjiv Kumar<br/>
-5) Vikas Shriyan<br/>
 
 *****************************************************************************************************************************
 # Description:
